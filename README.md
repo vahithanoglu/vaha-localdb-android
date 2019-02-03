@@ -119,6 +119,7 @@ public class ExampleActivity extends AppCompatActivity {
             println(c.id + ", " + c.vendor + ", " + c.model + ", " + c.year);
         }
         println("*********************************************");
+
     }
 }
 ```
